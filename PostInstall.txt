@@ -1,0 +1,7 @@
+
+For more information on series_checker, see http://series_checker.rubyforge.org
+
+NOTE: Change this information in PostInstall.txt 
+You can also delete it if you don't want it.
+
+
